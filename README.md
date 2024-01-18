@@ -30,8 +30,7 @@
             <th width="12.5%">Quality Mats</th>
             <th width="12.5%">Colour Mats</th>
             <th width="12.5%">Bamboo mats</th>
-            <th width="12.5%">Rolling Mats</th>
-            <th width="12.5%">Design Mats</th>
+            
         
 
         </tr>
